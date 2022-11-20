@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/henriquerb.7/" target="_blank">
+  <a href="https://www.instagram.com/henri.mp4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="hrb.7cs@gmail.com" target="_blank">
@@ -35,6 +35,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/HRBfps/HRBfps/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/HRBfps/HRBfps/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
